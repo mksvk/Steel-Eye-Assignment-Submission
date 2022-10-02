@@ -14,7 +14,7 @@
      
      const [selectedIndex , setSelectedIndex] = useState();
      ```
-     #second error
+     # second error
      ```bash
      
       <SingleListItem
@@ -32,11 +32,11 @@
         />
       
      ```
-     #Third mistake
+     # Third mistake
       
        For list items we need to add a unique key prop which is missing in the code
       
-      #Fourth mistake
+      # Fourth mistake
         Prop type is not matching with the prop, parent component is sending a number but it should send a boolean 
         
         
